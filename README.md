@@ -50,6 +50,6 @@ Our comprehensive suite, developed in C#, includes a Rumble View Bot, Chat Bot, 
 ### **Contact Information:**
 To learn more or to make a purchase, please contact us on Discord.
 
-**Discord Tag**: `#kreekton`
+**Discord Tag**: `#engicex`
 
 ---
